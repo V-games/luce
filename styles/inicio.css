@@ -1,0 +1,12 @@
+.contenedor-carrusel{
+    width: 750px;
+    height: 500px;
+    overflow: hidden;
+    margin: 0px auto;
+    margin-top: 50px;
+
+}
+.contenedor-carrusel img{
+    width: 750px;
+    height: 500px;
+}
